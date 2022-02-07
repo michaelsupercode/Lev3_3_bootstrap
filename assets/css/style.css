@@ -1,0 +1,15 @@
+@import url();
+* {
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: '', sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+
+.form-width {
+    margin: 0 auto;
+    padding-top: 10%;
+    width: 50%;
+}
