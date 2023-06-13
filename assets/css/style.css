@@ -13,3 +13,9 @@
     padding-top: 10%;
     width: 50%;
 }
+
+.carousel_slide {
+    display: flex;
+    justify-content: center;
+    margin-left: 35%;
+}
